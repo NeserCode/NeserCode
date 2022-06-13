@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=NeserCode&show_icons=true&theme=codeSTACKr" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NeserCode&show_icons=true&theme=codeSTACKr" align="right"/>
   <div align="left">
       <li>Focus on front-end technology</li>
       <li>Be curious about new technology</li>
