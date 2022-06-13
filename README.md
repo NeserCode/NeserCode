@@ -5,8 +5,8 @@
       <li>Be curious about new technology</li>
       <li>The best way to learn something well is to put it into practice</li>
   </div>
-  <br/><br/><br/>
 </div>
+<br/><br/><br/><br/><br/><br/>
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeserCode&layout=compact&theme=codeSTACKr" align="right" />
 </div>
