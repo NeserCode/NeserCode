@@ -6,5 +6,7 @@
 
 📧 如欲联系请发送邮件至 **nesercode@gmail.com**
 
+😎 如果想要支持我， 请前往[爱发电](https://afdian.net/a/nesercode)
+
 <img style="display:inline-block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeserCode&layout=compact&theme=codeSTACKr" align="center" />
 <img style="display:inline-block" src="https://github-readme-stats.vercel.app/api?username=NeserCode&show_icons=true&theme=codeSTACKr" align="center"/>
